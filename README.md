@@ -1,7 +1,8 @@
 # Automatic-room-temperature-controller
 
 
-This project is an automatic room temperature controller designed to maintain a comfortable environment by regulating the temperature based on user-defined settings. The system uses sensors to monitor the room temperature and controls heating or cooling devices accordingly.
+This project is an automatic room temperature controller designed to maintain a comfortable environment by regulating the temperature based on user-defined settings.
+The system uses sensors to monitor the room temperature and controls heating or cooling devices accordingly.
 
 Features:
 -Real-Time Temperature Monitoring: Continuously monitors the room temperature using a temperature sensor (e.g., DHT11, DHT22).
@@ -18,4 +19,5 @@ Components Required:
 -Miscellaneous (wires, power supply, etc.)
 
 Connect the circuit as shown in the vedio or image. Make sure you give less supply so that the ardiuno may not blast and also take care of the connections.
-Maintain good components and set the temperature sensor at the end of the board so that we can change the temperatures easily.  Dump the code above in the ardiuno.set a certain cutoff temperature as per your required conditions.
+Maintain good components and set the temperature sensor at the end of the board so that we can change the temperatures easily.
+Dump the code above in the ardiuno.set a certain cutoff temperature as per your required conditions.
